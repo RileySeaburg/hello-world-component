@@ -826,3 +826,4 @@ C:\Users\riley\learning\blazor\hello-world-component\obj\Debug\net7.0\hello-worl
 C:\Users\riley\learning\blazor\hello-world-component\obj\Debug\net7.0\refint\hello-world-component.dll
 C:\Users\riley\learning\blazor\hello-world-component\obj\Debug\net7.0\hello-world-component.pdb
 C:\Users\riley\learning\blazor\hello-world-component\obj\Debug\net7.0\ref\hello-world-component.dll
+C:\Users\riley\learning\blazor\hello-world-component\obj\Debug\net7.0\scopedcss\Shared\Dialog.razor.rz.scp.css

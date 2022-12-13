@@ -1,3 +1,55 @@
+/* /Shared/Dialog.razor.rz.scp.css */
+.dialog-container[b-33y9d265y6] {
+
+  position: absolute;
+
+  top: 0;
+
+  bottom: 0;
+
+  left: 0;
+
+  right: 0;
+
+  background-color: rgba(0, 0, 0, 0.6);
+
+  z-index: 2000;
+
+}
+
+.dialog[b-33y9d265y6] {
+
+  background-color: white;
+
+  margin: auto;
+
+  width: 25rem;
+
+}
+
+.dialog-title[b-33y9d265y6] {
+
+  background-color: #343a40;
+
+  color: white;
+
+  padding: .5rem;
+
+}
+
+.dialog-body[b-33y9d265y6] {
+
+  padding: 2rem;
+
+}
+
+.dialog-buttons[b-33y9d265y6] {
+
+  background-color: silver;
+
+  padding: .5rem;
+
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-16yo4pmhxn] {
     position: relative;
